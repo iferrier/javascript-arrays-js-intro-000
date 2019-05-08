@@ -22,7 +22,7 @@ function destructivelyAddElementToEndOfArray(array, element) {
 
 function accessElementInArray(array) {
   array=[1,2,3];
-  console.log(array[2]);
+  return(array[2]);
 }
 
 var chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles"];

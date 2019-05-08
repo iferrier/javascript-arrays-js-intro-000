@@ -42,3 +42,5 @@ addElementToEndOfArray([1],"foo");
 destructivelyAddElementToEndOfArray([1],"foo");
 
 accessElementInArray();
+
+destructivelyRemoveElementFromBeginningOfArray();

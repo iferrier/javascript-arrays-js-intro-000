@@ -60,3 +60,5 @@ destructivelyRemoveElementFromBeginningOfArray([1,2,3]);
 removeElementFromBeginningOfArray([1,2,3]);
 
 destructivelyRemoveElementFromEndOfArray([1,2,3]);
+
+removeElementFromEndOfArray([1,2,3]);

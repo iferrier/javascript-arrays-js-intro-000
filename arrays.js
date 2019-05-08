@@ -30,6 +30,11 @@ function destructivelyRemoveElementFromBeginningOfArray(array) {
   return(array);
 }
 
+function removeElementFromBeginningOfArray(array) {
+  array.slice(1);
+  return(array);
+}
+
 var chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles"];
 
 addElementToBeginningOfArray([1],"foo");
